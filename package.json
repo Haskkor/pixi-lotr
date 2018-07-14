@@ -1,16 +1,16 @@
 {
-  "name": "react-redux-boilerplate",
+  "name": "pixi-lotr",
   "version": "1.0.0",
-  "description": "A minimal react-redux boilerplate with all the best practices",
+  "description": "Pixijs test",
   "repository": {
     "type": "git",
-    "url": "git://github.com/flexdinesh/react-redux-boilerplate.git"
+    "url": "git://github.com/haskkor/pixi-lotr.git"
   },
   "engines": {
     "npm": ">=3",
     "node": ">=5"
   },
-  "author": "Dinesh Pandiyan",
+  "author": "Jeremy Farnault",
   "license": "MIT",
   "scripts": {
     "prebuild": "npm run build:clean",
